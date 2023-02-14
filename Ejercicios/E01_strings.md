@@ -1,4 +1,4 @@
-### E1: Extraer Información.
+# E1: Extraer Información.
 
 Recibimos cada pocos minutos mensaje desde una estación meteorológica con este formato:
 

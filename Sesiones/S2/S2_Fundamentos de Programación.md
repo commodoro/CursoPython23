@@ -233,9 +233,11 @@ Utiliza el algoritmo babilónico para calcular la raíz cuadrada de un número i
 
 El algoritmo babilónico es un algoritmo por iteración que permite calcular raíces cuadradas intentando asemejar el área de un rectángulo a un cuadrado. Su expresión matemática es:
 
-$$f_0(x)=x$$
-$$f_n(x)=\frac{1}{2}(\frac{x}{f_{n-1}(x)}+f_{n-1}(x))$$
-$$f_\infty(x) = \sqrt{x}$$
+$$f_0(x)=x$$  
+
+$$f_n(x)=\frac{1}{2}(\frac{x}{f_{n-1}(x)}+f_{n-1}(x))$$  
+
+$$f_\infty(x) = \sqrt{x}$$  
 
 ---
 

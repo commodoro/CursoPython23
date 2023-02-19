@@ -2,10 +2,6 @@
 
 ![alt text][logo]
 
-## Inscripción
-
-**Incríbete en el siguiente enlace para conseguir tu certificado**: [Pincha aquí](https://eventos.upct.es/go/python23)
-
 ## Resumen
 
 **Python** es un lenguaje de programación cuya popularidad en las últimas décadas ha explotado con el auge del análisis de datos, la IA y la expansión de internet. No es casualidad, pues Python es el marco de trabajo perfecto para desarrollar este tipo de aplicaciones. 
@@ -76,14 +72,13 @@ Todo el software utilizado es libre y gratuito.
 * Condicionales.
 * Bucles.
 * Funciones.
-* Decoradores.
-* Manejo de Errores.
 
 ### Sesión 3 - Estructuras de datos básicas.
 * Listas y Tuplas.
 * Diccionarios.
-* Otras estructuras.
-* Algoritmos con estructuras.
+* Decoradores.
+* Manejo de Errores.
+* Functools e itertools.
 
 ### Sesión 4 - Programación Orientada a Objetos.
 * Introducción a POO.

@@ -230,13 +230,15 @@ Los tipos inmutables son los que podríamos relacionar con **literales**, es dec
 
 ### Tipos inmutables.
 
-En Python tenemos los siguientes tipos inmutables:
+En Python están presentes los siguientes tipos inmutables:
 
 - `int`: representa números enteros de tamaño arbitrario.
-- `float`: representa números en coma flotante de precisión arbitraria.
+- `float`: representa números en coma flotante de precisión fija (32 o 64 bits).
 - `complex`: representa números complejos.
 - `str`: representa texto. No existen los caracteres en solitario.
 - `bytes`: reprenta un bloque de bytes en bruto.
+- `bool`: representa valores booleanos. Solo puede valer `True` o `False`.
+- `NoneType`: representa la ausencia de datos (por ejemplo lo que devuelven las funciones sin returno). Solo puede tener un valor definido como `None`.
 
 Cada uno de estos tipos está asociado con uno o más **literales**:
 

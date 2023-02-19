@@ -43,7 +43,7 @@ $$ D(p_1, p_2) = \sqrt{(x_2 - x_1)^2 + (y_2-y_1)^2} $$
 
 ### Ejercicio 4.
 
-Crea un programa que realice la simulación de una inversión a interés compuesto $r$.
+Crea un programa que realice la simulación de una inversión a interés compuesto.
 
 - El programa debe pedir:
   - La tasa de interés anual.
@@ -51,7 +51,7 @@ Crea un programa que realice la simulación de una inversión a interés compues
   - Información de si se realizan nuevos depósitos al principio o al final de cada periodo y la cantidad. 
   - El número de años que se calcula.
 
-Haz que se imprima una tabla con información al final de cada año y un resumen final. La tasa de interés de un periodo ($n$) a otro se calcula como:
+Haz que se imprima una tabla con información al final de cada año y un resumen final. El capital de un periodo ($n$) a otro se calcula en función de la tasa de interés ($r$) como:
 
 $$ C_{n+1} = C_{n} \cdot (1+r) $$
 

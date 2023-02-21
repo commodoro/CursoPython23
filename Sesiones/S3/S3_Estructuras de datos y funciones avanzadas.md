@@ -637,7 +637,6 @@ print_prompt()  # -> >>
 print_prompt('Hola mundo!')  # -> >> Hola mundo!
 ```
 
-
 #### Itertools.
 
 El módulo `itertools` contiene una colección de funciones muy útiles para tratar con iteradores. 

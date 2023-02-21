@@ -34,6 +34,7 @@
     - [filter](#filter)
     - [map](#map)
     - [zip](#zip)
+    - [all, any](#all-any)
     - [partial](#partial)
     - [Itertools.](#itertools)
 
@@ -614,6 +615,16 @@ pescaderia = dict(zip(['lubina', 'merluza', 'atún'], [11.23, 14.32, 21.02]))
 print(pescaderia)
 ```
 
+#### all, any
+
+Podemos determinar si todos los elementos de un iterable (lista, tupla, etc) son `True` con `all` o si al menos uno lo es `any`. 
+
+```python
+numeros = [2, 4, 12, 32, 58, 96]
+if all(map(lambda n: n%2 == 0, numeros)):
+    print('Todos son pares.')
+```
+
 #### partial
 
 En el módulo `functools` podemos encontrar la función `partial` que nos permite pre-asignar algunos parámetros de una función.
@@ -625,6 +636,7 @@ print_prompt = partial(print, '>>')
 print_prompt()  # -> >>
 print_prompt('Hola mundo!')  # -> >> Hola mundo!
 ```
+
 
 #### Itertools.
 

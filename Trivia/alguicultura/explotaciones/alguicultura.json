@@ -1,0 +1,131 @@
+{
+    "company": "Alguicultura Cartagena SL.",
+    "pools": [
+        {
+            "id": 0,
+            "sensors": {
+                "ph": 6.1,
+                "temp": 20.1,
+                "sali": 24.1,
+                "refr": 8.3
+            },
+            "set_points": {
+                "ph" : 6,
+                "temp": 21.0,
+                "sali": 24.3,
+                "refr": 8.8
+            },
+            "last_feeding": 1676970000,
+            "release_date": "15/12/22",
+            "species": "spirulina",
+            "capacity(L)": 5600
+        },
+        {
+            "id": 1,
+            "sensors": {
+                "ph": 7.2,
+                "temp": 15.1,
+                "sali": 20.5,
+                "refr": 6.8
+            },
+            "set_points": {
+                "ph" : 7.1,
+                "temp": 21.0,
+                "sali": 24.1,
+                "refr": 8.8
+            },
+            "last_feeding": 1676970000,
+            "release_date": "10/01/23",
+            "species": "dulse",
+            "capacity(L)": 5600
+        },
+        {
+            "id": 2,
+            "sensors": {
+                "ph": 6.1,
+                "temp": 20.1,
+                "sali": 24.1,
+                "refr": 8.3
+            },
+            "set_points": {
+                "ph" : 6.1,
+                "temp": 21.0,
+                "sali": 23.7,
+                "refr": 8.1
+            },
+            "last_feeding": 1676970000,
+            "release_date": "11/01/23",
+            "species": "spirulina",
+            "capacity(L)": 8000
+        },
+        {
+            "id": 3,
+            "sensors": {
+                "ph": 7.2,
+                "temp": 15.1,
+                "sali": 20.5,
+                "refr": 6.8
+            },
+            "set_points": {
+                "ph" : 6.6,
+                "temp": 16.0,
+                "sali": 20.0,
+                "refr": 6.6
+            },
+            "last_feeding": 1676970000,
+            "release_date": "10/01/23",
+            "species": "dulse",
+            "capacity(L)": 8000
+        },
+        {
+            "id": 4,
+            "sensors": {
+                "ph": 6.9,
+                "temp": 22.1,
+                "sali": 23.2,
+                "refr": 7.76
+            },
+            "set_points": {
+                "ph" : 6.7,
+                "temp": 21.9,
+                "sali": 23.1,
+                "refr": 7.6
+            },
+            "last_feeding": 1676970000,
+            "release_date": "04/02/23",
+            "species": "euchema cottonii",
+            "capacity(L)": 10000
+        },
+        {
+            "id": 5,
+            "sensors": {
+                "ph": 7.0,
+                "temp": 21.9,
+                "sali": 23.5,
+                "refr": 7.70
+            },
+            "set_points": {
+                "ph" : 6.7,
+                "temp": 21.9,
+                "sali": 23.1,
+                "refr": 7.6
+            },
+            "last_feeding": 1676970000,
+            "release_date": "04/02/23",
+            "species": "euchema cottonii",
+            "capacity(L)": 10000
+        }
+    ],
+    "localization": "Cartagena",
+    "area": "1680m2",
+    "foundation": "2015",
+    "contact": {
+        "email": "contact@algcart.es",
+        "phone": "600-ALGACT"
+    },
+    "last_sys_check": 1665561600,
+    "checked_by": {
+        "name": "Mariano",
+        "id": "001-E"
+    }
+}

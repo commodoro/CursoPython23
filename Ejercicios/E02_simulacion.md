@@ -1,4 +1,4 @@
-# E2: Simulación
+# Ejercicio 2: Simulación
 
 Necesitamos escoger entre dos sistemas de iluminación para una nave industrial de 500 m2.
 

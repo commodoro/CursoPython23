@@ -1,4 +1,4 @@
-# S4E1: Phonewords.
+# Ejercicio 4: Phonewords.
 
 Cuando usamos el teclado del teléfono móvil para marcar un número el teléfono busca en su agenda resultados que coincidan con el número que estamos escribiendo y, de forma predictiva, nos devuelve el nombre del contacto cuyo teléfono que estamos escribiendo. Además, en algunos modelos, el teléfono nos devuelve también los contactos que coinciden con las *[phonewords](https://es.wikipedia.org/wiki/Phonewords)* del número marcado.
 

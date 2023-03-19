@@ -1,4 +1,4 @@
-# S3E1: Búsqueda de patrones simple.
+# Ejercicio 3: Búsqueda de patrones simple.
 
 > Si realizas este ejercicio más adelante, es probable que te animes a usar `numpy` + `matplotlib`. Es lo mismo.
 

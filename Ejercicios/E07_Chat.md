@@ -505,7 +505,7 @@ La aplicación es muy sencilla, realiza los siguientes cambios:
 
 1. Modifica los programas para añadir un sistema de usuarios.
    -  Cuando se realice la conexión, el servidor esperará unos segundos a que el cliente le pase información sobre el usuario (alias).
-   -  Si no le ha pasado información en el tiempo definido la conexión será rechazada.
+   -  Si no le ha pasado información en el tiempo definido la conexión será rechazada. También se rechazará si ya existe un usuario con ese nombre en el chat. Muestra un mensaje de error si así sucede.
    -  Si la información es correcta el usuario entrará al chat y se mostrará un mensaje en el chat de que el usuario ha ingresado.
    -  Cuando el usuario se desconecte se mostrará un mensaje de que se ha desconectado.
    -  Se debe comprobar que el usuario que aparece en el mensaje que envía un usuario corresponde, efectivamente, al usuario que realizó esa conexión.

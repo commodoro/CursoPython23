@@ -515,3 +515,7 @@ La aplicación es muy sencilla, realiza los siguientes cambios:
    - Puedes hacer que guarde todo el historial del chat (tendrías que guardarlo) o solo a partir de activar `'.r'`. Te lo dejo a tu criterio.
 4. Añade un comando más, `.h`, que imprima lo que hacen los demás comandos: `.q`, `.r`, `.t` y `.l`.
 5. [OPCIONAL] Usando el módulo `tkinter`, crea una interfaz grafica sencilla (un cuadro de texto con scroll y una entrada) para el cliente del chat.
+
+Ejemplo de interfaz con `tkinter`.
+
+![Ejemplo de chat con tkinter](src/ejemplo_chat_tk.png)
